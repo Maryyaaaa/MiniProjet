@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
-#include "library1.h"
+#include"library.h"
 
 void InitStack(Stack* S) {
     *S = NULL;
