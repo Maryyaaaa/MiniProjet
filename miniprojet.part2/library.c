@@ -2,9 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdbool.h>
-
-#include "library1.h" 
-
+#include "stack.c"
+#include "queue.c"
 
 // Add a new book to inventory
 void AddNewBook(Inventory* inventory) {
